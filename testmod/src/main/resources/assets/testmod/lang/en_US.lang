@@ -1,0 +1,8 @@
+item.tank.name=Tank BG
+item.item_mod_shovel.name=Shovel BG
+tile.citrine_block.name=Citrine BG
+
+
+#itemGroup.creativeTabName=Creative Tab Name
+#tile.tileEntityName.name=Tile Entity Name
+#entity.entityName.name=Entity Name
